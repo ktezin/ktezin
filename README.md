@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello, World! 👋
+I'm currently improving my web development skills
 <!--
 **ktezin/ktezin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

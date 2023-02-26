@@ -13,7 +13,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDb" alt="MongoDb" width="40" height="40"/>
   <hr>
   <h2 align="center"> :chart_with_upwards_trend: Stats </h2>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ktezin&show_icons=true&theme=dracula" alt="Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ktezin&show_icons=true&theme=dracula&count_private=true" alt="Stats" />
   <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktezin&layout=compact&theme=dracula" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktezin&layout=compact&theme=dracula&count_private=true" alt="Top Languages" />
 </div>
